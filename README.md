@@ -1,14 +1,10 @@
-# Hola!
-
-Let me introduce myself:
-
-**I am Sakil Sazzad Joy.**
+**Sakil Sazzad Joy 👋**
 
 - _A learning programmer !_
 
-- I am from 🇧🇩 🌍
+- from 🇧🇩 🌍
 
-Currently I am studying **CSE** @ [SUST](https://www.sust.edu/)
+- Currently studying **CSE** @ [SUST](https://www.sust.edu/)
 
 # I am experienced in using:
 
