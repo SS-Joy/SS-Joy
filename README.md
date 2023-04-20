@@ -14,7 +14,7 @@
 
 ## Web Development:
 
-[![Basics](https://skills.thijs.gg/icons?i=js,html,css)](https://skills.thijs.gg)
+[![Basics](https://skills.thijs.gg/icons?i=ts,js,html,css)](https://skills.thijs.gg)
 
 ### Frameworks:
 
