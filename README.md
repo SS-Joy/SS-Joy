@@ -6,11 +6,10 @@
 
 - Currently studying **CSE** @ [SUST](https://www.sust.edu/)
 
-# I am experienced in using:
 
-## Programming lanuages:
+# Technologies I mainly focus on :
 
-[![My Skills](https://skills.thijs.gg/icons?i=c,cpp,java,python)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=c,cpp,js,ts,java,python)](https://skills.thijs.gg)
 
 ## Web Development:
 
