@@ -11,9 +11,8 @@
 
 [![My Skills](https://skills.thijs.gg/icons?i=c,cpp,js,ts,java,python)](https://skills.thijs.gg)
 
-## Web Development:
+## Web Development experience :
 
-[![Basics](https://skills.thijs.gg/icons?i=ts,js,html,css)](https://skills.thijs.gg)
 
 ### Frameworks:
 
