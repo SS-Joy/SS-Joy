@@ -1,6 +1,6 @@
 **Sakil Sazzad Joy 👋**
 
-- _A learning programmer !_
+- _A passionate computer enthusiast !_
 
 - from 🇧🇩 🌍
 
