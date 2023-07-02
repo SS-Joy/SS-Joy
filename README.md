@@ -16,11 +16,11 @@
 
 ### Frameworks:
 
-[![Full Stack frameworks](https://skills.thijs.gg/icons?i=nodejs,express,react,tailwind)](https://skills.thijs.gg)
+[![Full Stack frameworks](https://skills.thijs.gg/icons?i=nodejs,express,react,next,tailwind)](https://skills.thijs.gg)
 
 ### Databases:
 
-[![Databses](https://skills.thijs.gg/icons?i=mongo,mysql)](https://skills.thijs.gg)
+[![Databses](https://skills.thijs.gg/icons?i=mongo,mongoose,mysql)](https://skills.thijs.gg)
 
 **Contact Me:🐛**
 
