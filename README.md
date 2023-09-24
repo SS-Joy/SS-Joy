@@ -7,7 +7,7 @@
 - Currently studying **CSE** @ [SUST](https://www.sust.edu/)
 
 
-# Technologies I mainly focus on :
+# Technologies I am working with:
 
 [![My Skills](https://skills.thijs.gg/icons?i=c,cpp,js,ts,java,python)](https://skills.thijs.gg)
 
@@ -20,7 +20,7 @@
 
 ### Databases:
 
-[![Databses](https://skills.thijs.gg/icons?i=mongo,mongoose,mysql)](https://skills.thijs.gg)
+[![Databses](https://skills.thijs.gg/icons?i=mongo,mongoosejs,mysql)](https://skills.thijs.gg)
 
 **Contact Me:🐛**
 
