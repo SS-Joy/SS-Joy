@@ -12,15 +12,19 @@
 [![My Skills](https://skills.thijs.gg/icons?i=c,cpp,js,ts,java,python)](https://skills.thijs.gg)
 
 # Development ( Web ):
+- ## Frontend:
+    [![Frontend tech stack](https://skills.thijs.gg/icons?i=react,next,tailwind)](https://skills.thijs.gg)
+- ## Baclkend:
+    [![Backend tech stack](https://skills.thijs.gg/icons?i=nodejs,express,nestjs)](https://skills.thijs.gg)
+- ## Full stack:
+    [![Full Stack frameworks](https://skills.thijs.gg/icons?i=next)](https://skills.thijs.gg)
 
 
-### Frameworks:
 
-[![Full Stack frameworks](https://skills.thijs.gg/icons?i=nodejs,express,react,next,tailwind)](https://skills.thijs.gg)
 
 ### Databases:
 
-[![Databses](https://skills.thijs.gg/icons?i=mongo,mongoosejs,mysql)](https://skills.thijs.gg)
+[![Databses](https://skills.thijs.gg/icons?i=mongo,mysql)](https://skills.thijs.gg)
 
 **Contact Me:🐛**
 
