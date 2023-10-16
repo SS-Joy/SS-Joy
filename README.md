@@ -25,7 +25,7 @@
 
 ## ORMs/ODMs:
 
-<img src="images/prisma.png" width="90">
+<img src="images/prisma2.png" width="90">
 <img src="images/mongoose.png" width="100">
 
 **Contact Me:🐛**
