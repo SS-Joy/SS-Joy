@@ -1,6 +1,6 @@
 **Sakil Sazzad Joy 👋**
 
-- _A passionate computer enthusiast !_
+- Stay Hungry!_
 
 - from 🇧🇩 🌍
 
