@@ -1,30 +1,32 @@
 **Sakil Sazzad Joy 👋**
 
-- Stay Hungry!_
+- Stay Hungry!\_
 
 - from 🇧🇩 🌍
 
 - Currently studying **CSE** @ [SUST](https://www.sust.edu/)
-
 
 # Technologies I am working with:
 
 [![My Skills](https://skills.thijs.gg/icons?i=c,cpp,js,ts,java,python)](https://skills.thijs.gg)
 
 # Development ( Web ):
+
 - ## Frontend:
-    [![Frontend tech stack](https://skills.thijs.gg/icons?i=react,next,tailwind)](https://skills.thijs.gg)
+  [![Frontend tech stack](https://skills.thijs.gg/icons?i=react,next,tailwind)](https://skills.thijs.gg)
 - ## Backend:
-    [![Backend tech stack](https://skills.thijs.gg/icons?i=nodejs,express,nestjs)](https://skills.thijs.gg)
+  [![Backend tech stack](https://skills.thijs.gg/icons?i=nodejs,express,nestjs)](https://skills.thijs.gg)
 - ## Full stack:
-    [![Full Stack frameworks](https://skills.thijs.gg/icons?i=next)](https://skills.thijs.gg)
+  [![Full Stack frameworks](https://skills.thijs.gg/icons?i=next)](https://skills.thijs.gg)
 
-
-
-
-### Databases:
+# Database:
 
 [![Databses](https://skills.thijs.gg/icons?i=mongo,mysql)](https://skills.thijs.gg)
+
+## ORMs/ODMs:
+
+<img src="images/prisma.png" width="90">
+<img src="images/mongoose.png" width="100">
 
 **Contact Me:🐛**
 
