@@ -13,7 +13,7 @@
 # Development ( Web ):
 
 - ## Frontend:
-  [![Frontend tech stack](https://skills.thijs.gg/icons?i=react,next,tailwind)](https://skills.thijs.gg)
+  [![Frontend tech stack](https://skills.thijs.gg/icons?i=react,redux,next,tailwind)](https://skills.thijs.gg)
 - ## Backend:
   [![Backend tech stack](https://skills.thijs.gg/icons?i=nodejs,express,nestjs)](https://skills.thijs.gg)
 - ## Full stack:
