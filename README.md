@@ -8,7 +8,7 @@
 
 # Technologies I am working with:
 
-[![My Skills](https://skills.thijs.gg/icons?i=c,cpp,js,ts,java,python)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=typescript,js,react,redux,next,tailwind,html,css)](https://skills.thijs.gg)
 
 # Development ( Web ):
 
