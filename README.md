@@ -6,7 +6,7 @@
 
 ## Frontend:
 
-[![Frontend tech stack](https://skillicons.dev/icons?i=react,redux,next,tailwind)](https://skills.thijs.gg)
+[![Frontend tech stack](https://skillicons.dev/icons?i=typescript,react,redux,next,tailwind)](https://skills.thijs.gg)
 
 ## Backend:
 
