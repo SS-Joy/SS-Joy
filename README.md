@@ -16,17 +16,14 @@
   [![Frontend tech stack](https://skills.thijs.gg/icons?i=react,redux,next,tailwind)](https://skills.thijs.gg)
 - ## Backend:
   [![Backend tech stack](https://skills.thijs.gg/icons?i=nodejs,express,nestjs)](https://skills.thijs.gg)
-- ## Full stack:
-  [![Full Stack frameworks](https://skills.thijs.gg/icons?i=next)](https://skills.thijs.gg)
 
 # Database:
 
-[![Databses](https://skills.thijs.gg/icons?i=mongo,mysql)](https://skills.thijs.gg)
+[![Databses](https://skillicons.dev/icons?i=mongo,mysql)
 
 ## ORMs/ODMs:
+[![Databses](https://skillicons.dev/icons?i=prisma)
 
-<img src="images/prisma2.png" width="90">
-<img src="images/mongoose.png" width="100">
 
 **Contact Me:🐛**
 
