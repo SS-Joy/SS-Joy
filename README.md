@@ -1,29 +1,28 @@
 **Sakil Sazzad Joy 👋**
 
-- Stay Hungry!\_
+- Full Stack software Engineer
 
 - from 🇧🇩 🌍
 
-- Currently studying **CSE** @ [SUST](https://www.sust.edu/)
+## Frontend:
 
-# Technologies I am working with:
+[![Frontend tech stack](https://skillicons.dev/icons?i=react,redux,next,tailwind)](https://skills.thijs.gg)
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,js,react,redux,next,tailwind,html,css)](https://skills.thijs.gg)
+## Backend:
 
-# Development ( Web ):
+![Backend tech stack](https://skillicons.dev/icons?i=nodejs,express,nestjs)
 
-- ## Frontend:
-  [![Frontend tech stack](https://skills.thijs.gg/icons?i=react,redux,next,tailwind)](https://skills.thijs.gg)
-- ## Backend:
-  [![Backend tech stack](https://skills.thijs.gg/icons?i=nodejs,express,nestjs)](https://skills.thijs.gg)
+## Database:
 
-# Database:
-
-[![Databses](https://skillicons.dev/icons?i=mongo,mysql)
+![Databses](https://skillicons.dev/icons?i=mongo,mysql)
 
 ## ORMs/ODMs:
-[![Databses](https://skillicons.dev/icons?i=prisma)
 
+![Databses](https://skillicons.dev/icons?i=prisma)
+
+## Others:
+
+![Databses](https://skillicons.dev/icons?i=docker)
 
 **Contact Me:🐛**
 
