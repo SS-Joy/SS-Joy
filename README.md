@@ -6,7 +6,7 @@
 
 ## Frontend:
 
-[![Frontend tech stack](https://skillicons.dev/icons?i=typescript,react,redux,next,tailwind)](https://skills.thijs.gg)
+[![Frontend tech stack](https://skillicons.dev/icons?i=html,css,typescript,javascript,react,redux,next,tailwind)](https://skills.thijs.gg)
 
 ## Backend:
 
@@ -19,10 +19,11 @@
 ## ORMs/ODMs:
 
 ![Databses](https://skillicons.dev/icons?i=prisma)
+![](https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png)
 
 ## Others:
 
-![Databses](https://skillicons.dev/icons?i=docker)
+![Databses](https://skillicons.dev/icons?i=docker,git,github,linux,ubuntu)
 
 **Contact Me:🐛**
 
